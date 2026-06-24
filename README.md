@@ -1,4 +1,4 @@
-# Git Assignment 1
+# Git Assignment 2
 
 Name: Liu Naifei  
 Student ID: 20221613  
